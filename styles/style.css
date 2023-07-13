@@ -159,7 +159,7 @@ body{
     background-color: var(--white);
 }
 .accordion-collapse.collapse.show{
-    background-color: var(--blue);
+    background-color:transparent;
 }
 .accordion-button:not(.collapsed){
     background-color: var(--blue);
